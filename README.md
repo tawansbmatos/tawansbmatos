@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou um Analista de Sistemas em formação, apaixonado por criar soluções que gerem impacto real. Atualmente estou estudando **React**, **React Native**, **Next.js**, **PostgreSQL** e **TypeScript**, com interesse crescente em **Docker** e em linguagens como **Ruby** e **Rust**.
 
