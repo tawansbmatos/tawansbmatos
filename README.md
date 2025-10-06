@@ -1,6 +1,6 @@
 <h1 align="center">Olá, tudo bem? Me chamo Tawan Matos!! 👋</h1>
 <h3 align="center">🎓 Analista de Sistemas em formação | Explorador de ideias e soluções digitais</h3>
-<h3 align="center">33 anos | Cursando Análise e Desenvolvimento de Sistemas — *Faci Wyden* </h3>
+<h3 align="center">33 anos | Cursando Análise e Desenvolvimento de Sistemas — Faci Wyden </h3>
 <h3 align="center">📍 Belém, Pará – Brasil</h3>
  
 
