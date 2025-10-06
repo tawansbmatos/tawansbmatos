@@ -59,7 +59,7 @@ Estou elaborando meu portfólio e em busca de uma oportunidade para aplicar meus
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/tawansbmatos](https://www.linkedin.com/feed/)
+- 💼 LinkedIn: [linkedin.com/in/tawansbmatos](https://www.linkedin.com/in/tawan-s-b-matos-4b8828234/)
 - 📧 Email: tawanmatos30@gmail.com
 - 🌐 Portfólio: [portifolio-zeta-three-30.vercel.app](https://portifolio-zeta-three-30.vercel.app)
 
